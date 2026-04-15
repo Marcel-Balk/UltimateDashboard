@@ -1,0 +1,3502 @@
+[
+  {
+    "name": "Anthropic",
+    "slug": "anthropic",
+    "file": "anthropic.svg",
+    "color": "191919",
+    "category": "ai"
+  },
+  {
+    "name": "Dask",
+    "slug": "dask",
+    "file": "dask.svg",
+    "color": "FC6E6B",
+    "category": "ai"
+  },
+  {
+    "name": "GeoPandas",
+    "slug": "geopandas",
+    "file": "geopandas.svg",
+    "color": "139C5A",
+    "category": "ai"
+  },
+  {
+    "name": "Google Colab",
+    "slug": "googlecolab",
+    "file": "googlecolab.svg",
+    "color": "F9AB00",
+    "category": "ai"
+  },
+  {
+    "name": "Gradio",
+    "slug": "gradio",
+    "file": "gradio.svg",
+    "color": "F97316",
+    "category": "ai"
+  },
+  {
+    "name": "Haystack",
+    "slug": "haystack",
+    "file": "haystack.svg",
+    "color": "0EAF9C",
+    "category": "ai"
+  },
+  {
+    "name": "Hugging Face",
+    "slug": "huggingface",
+    "file": "huggingface.svg",
+    "color": "FFD21E",
+    "category": "ai"
+  },
+  {
+    "name": "Jupyter",
+    "slug": "jupyter",
+    "file": "jupyter.svg",
+    "color": "F37626",
+    "category": "ai"
+  },
+  {
+    "name": "Keras",
+    "slug": "keras",
+    "file": "keras.svg",
+    "color": "D00000",
+    "category": "ai"
+  },
+  {
+    "name": "LangChain",
+    "slug": "langchain",
+    "file": "langchain.svg",
+    "color": "7FC8FF",
+    "category": "ai"
+  },
+  {
+    "name": "Milvus",
+    "slug": "milvus",
+    "file": "milvus.svg",
+    "color": "00A1EA",
+    "category": "ai"
+  },
+  {
+    "name": "MLflow",
+    "slug": "mlflow",
+    "file": "mlflow.svg",
+    "color": "0194E2",
+    "category": "ai"
+  },
+  {
+    "name": "Neptune",
+    "slug": "neptune",
+    "file": "neptune.svg",
+    "color": "5B69C2",
+    "category": "ai"
+  },
+  {
+    "name": "NumPy",
+    "slug": "numpy",
+    "file": "numpy.svg",
+    "color": "013243",
+    "category": "ai"
+  },
+  {
+    "name": "Ollama",
+    "slug": "ollama",
+    "file": "ollama.svg",
+    "color": "000000",
+    "category": "ai"
+  },
+  {
+    "name": "OpenCV",
+    "slug": "opencv",
+    "file": "opencv.svg",
+    "color": "5C3EE8",
+    "category": "ai"
+  },
+  {
+    "name": "pandas",
+    "slug": "pandas",
+    "file": "pandas.svg",
+    "color": "150458",
+    "category": "ai"
+  },
+  {
+    "name": "Perplexity",
+    "slug": "perplexity",
+    "file": "perplexity.svg",
+    "color": "1FB8CD",
+    "category": "ai"
+  },
+  {
+    "name": "Prefect",
+    "slug": "prefect",
+    "file": "prefect.svg",
+    "color": "070E10",
+    "category": "ai"
+  },
+  {
+    "name": "PyTorch",
+    "slug": "pytorch",
+    "file": "pytorch.svg",
+    "color": "EE4C2C",
+    "category": "ai"
+  },
+  {
+    "name": "Qdrant",
+    "slug": "qdrant",
+    "file": "qdrant.svg",
+    "color": "DC244C",
+    "category": "ai"
+  },
+  {
+    "name": "Ray",
+    "slug": "ray",
+    "file": "ray.svg",
+    "color": "028CF0",
+    "category": "ai"
+  },
+  {
+    "name": "Replicate",
+    "slug": "replicate",
+    "file": "replicate.svg",
+    "color": "000000",
+    "category": "ai"
+  },
+  {
+    "name": "scikit-learn",
+    "slug": "scikitlearn",
+    "file": "scikitlearn.svg",
+    "color": "F7931E",
+    "category": "ai"
+  },
+  {
+    "name": "Streamlit",
+    "slug": "streamlit",
+    "file": "streamlit.svg",
+    "color": "FF4B4B",
+    "category": "ai"
+  },
+  {
+    "name": "TensorFlow",
+    "slug": "tensorflow",
+    "file": "tensorflow.svg",
+    "color": "FF6F00",
+    "category": "ai"
+  },
+  {
+    "name": "Weights and Biases",
+    "slug": "weightsandbiases",
+    "file": "weightsandbiases.svg",
+    "color": "888888",
+    "category": "ai"
+  },
+  {
+    "name": "Apache ECharts",
+    "slug": "apacheecharts",
+    "file": "apacheecharts.svg",
+    "color": "AA344D",
+    "category": "analytics"
+  },
+  {
+    "name": "Apache Flink",
+    "slug": "apacheflink",
+    "file": "apacheflink.svg",
+    "color": "E6526F",
+    "category": "analytics"
+  },
+  {
+    "name": "Apache Spark",
+    "slug": "apachespark",
+    "file": "apachespark.svg",
+    "color": "E25A1C",
+    "category": "analytics"
+  },
+  {
+    "name": "Apache Superset",
+    "slug": "apachesuperset",
+    "file": "apachesuperset.svg",
+    "color": "20A6C9",
+    "category": "analytics"
+  },
+  {
+    "name": "Hive",
+    "slug": "hive",
+    "file": "hive.svg",
+    "color": "E31337",
+    "category": "analytics"
+  },
+  {
+    "name": "Looker",
+    "slug": "looker",
+    "file": "looker.svg",
+    "color": "4285F4",
+    "category": "analytics"
+  },
+  {
+    "name": "Metabase",
+    "slug": "metabase",
+    "file": "metabase.svg",
+    "color": "509EE3",
+    "category": "analytics"
+  },
+  {
+    "name": "Qlik",
+    "slug": "qlik",
+    "file": "qlik.svg",
+    "color": "009848",
+    "category": "analytics"
+  },
+  {
+    "name": "Redash",
+    "slug": "redash",
+    "file": "redash.svg",
+    "color": "FF7964",
+    "category": "analytics"
+  },
+  {
+    "name": "BorgBackup",
+    "slug": "borgbackup",
+    "file": "borgbackup.svg",
+    "color": "00DD00",
+    "category": "backup"
+  },
+  {
+    "name": "Duplicati",
+    "slug": "duplicati",
+    "file": "duplicati.svg",
+    "color": "1E3A8A",
+    "category": "backup"
+  },
+  {
+    "name": "Veeam",
+    "slug": "veeam",
+    "file": "veeam.svg",
+    "color": "00B336",
+    "category": "backup"
+  },
+  {
+    "name": "Akamai",
+    "slug": "akamai",
+    "file": "akamai.svg",
+    "color": "0096D6",
+    "category": "cloud"
+  },
+  {
+    "name": "Alibaba Cloud",
+    "slug": "alibabacloud",
+    "file": "alibabacloud.svg",
+    "color": "FF6A00",
+    "category": "cloud"
+  },
+  {
+    "name": "Apache Cloudstack",
+    "slug": "apachecloudstack",
+    "file": "apachecloudstack.svg",
+    "color": "2AA5DC",
+    "category": "cloud"
+  },
+  {
+    "name": "Backblaze",
+    "slug": "backblaze",
+    "file": "backblaze.svg",
+    "color": "E21E29",
+    "category": "cloud"
+  },
+  {
+    "name": "Bunny CDN",
+    "slug": "bunnydotnet",
+    "file": "bunnydotnet.svg",
+    "color": "888888",
+    "category": "cloud"
+  },
+  {
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "file": "cloudflare.svg",
+    "color": "F38020",
+    "category": "cloud"
+  },
+  {
+    "name": "Cloudinary",
+    "slug": "cloudinary",
+    "file": "cloudinary.svg",
+    "color": "3448C5",
+    "category": "cloud"
+  },
+  {
+    "name": "DigitalOcean",
+    "slug": "digitalocean",
+    "file": "digitalocean.svg",
+    "color": "0080FF",
+    "category": "cloud"
+  },
+  {
+    "name": "Fastly",
+    "slug": "fastly",
+    "file": "fastly.svg",
+    "color": "FF282D",
+    "category": "cloud"
+  },
+  {
+    "name": "Firebase",
+    "slug": "firebase",
+    "file": "firebase.svg",
+    "color": "DD2C00",
+    "category": "cloud"
+  },
+  {
+    "name": "Fly.io",
+    "slug": "flydotio",
+    "file": "flydotio.svg",
+    "color": "24175B",
+    "category": "cloud"
+  },
+  {
+    "name": "Google Cloud",
+    "slug": "googlecloud",
+    "file": "googlecloud.svg",
+    "color": "4285F4",
+    "category": "cloud"
+  },
+  {
+    "name": "Hetzner",
+    "slug": "hetzner",
+    "file": "hetzner.svg",
+    "color": "D50C2D",
+    "category": "cloud"
+  },
+  {
+    "name": "Mailgun",
+    "slug": "mailgun",
+    "file": "mailgun.svg",
+    "color": "F06B66",
+    "category": "cloud"
+  },
+  {
+    "name": "Netlify",
+    "slug": "netlify",
+    "file": "netlify.svg",
+    "color": "00C7B7",
+    "category": "cloud"
+  },
+  {
+    "name": "OVH",
+    "slug": "ovh",
+    "file": "ovh.svg",
+    "color": "123F6D",
+    "category": "cloud"
+  },
+  {
+    "name": "Railway",
+    "slug": "railway",
+    "file": "railway.svg",
+    "color": "0B0D0E",
+    "category": "cloud"
+  },
+  {
+    "name": "Render",
+    "slug": "render",
+    "file": "render.svg",
+    "color": "000000",
+    "category": "cloud"
+  },
+  {
+    "name": "Scaleway",
+    "slug": "scaleway",
+    "file": "scaleway.svg",
+    "color": "4F0599",
+    "category": "cloud"
+  },
+  {
+    "name": "Supabase",
+    "slug": "supabase",
+    "file": "supabase.svg",
+    "color": "3FCF8E",
+    "category": "cloud"
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "file": "vercel.svg",
+    "color": "000000",
+    "category": "cloud"
+  },
+  {
+    "name": "Vultr",
+    "slug": "vultr",
+    "file": "vultr.svg",
+    "color": "007BFC",
+    "category": "cloud"
+  },
+  {
+    "name": "Wasabi",
+    "slug": "wasabi",
+    "file": "wasabi.svg",
+    "color": "01CD3E",
+    "category": "cloud"
+  },
+  {
+    "name": "Astro",
+    "slug": "astro",
+    "file": "astro.svg",
+    "color": "BC52EE",
+    "category": "cms"
+  },
+  {
+    "name": "Contentful",
+    "slug": "contentful",
+    "file": "contentful.svg",
+    "color": "2478CC",
+    "category": "cms"
+  },
+  {
+    "name": "Docusaurus",
+    "slug": "docusaurus",
+    "file": "docusaurus.svg",
+    "color": "3ECC5F",
+    "category": "cms"
+  },
+  {
+    "name": "Drupal",
+    "slug": "drupal",
+    "file": "drupal.svg",
+    "color": "0678BE",
+    "category": "cms"
+  },
+  {
+    "name": "Eleventy",
+    "slug": "eleventy",
+    "file": "eleventy.svg",
+    "color": "222222",
+    "category": "cms"
+  },
+  {
+    "name": "Gatsby",
+    "slug": "gatsby",
+    "file": "gatsby.svg",
+    "color": "663399",
+    "category": "cms"
+  },
+  {
+    "name": "Ghost",
+    "slug": "ghost",
+    "file": "ghost.svg",
+    "color": "15171A",
+    "category": "cms"
+  },
+  {
+    "name": "Hugo",
+    "slug": "hugo",
+    "file": "hugo.svg",
+    "color": "FF4088",
+    "category": "cms"
+  },
+  {
+    "name": "Jekyll",
+    "slug": "jekyll",
+    "file": "jekyll.svg",
+    "color": "CC0000",
+    "category": "cms"
+  },
+  {
+    "name": "Joomla",
+    "slug": "joomla",
+    "file": "joomla.svg",
+    "color": "5091CD",
+    "category": "cms"
+  },
+  {
+    "name": "PrestaShop",
+    "slug": "prestashop",
+    "file": "prestashop.svg",
+    "color": "DF0067",
+    "category": "cms"
+  },
+  {
+    "name": "Sanity",
+    "slug": "sanity",
+    "file": "sanity.svg",
+    "color": "0D0E12",
+    "category": "cms"
+  },
+  {
+    "name": "Shopify",
+    "slug": "shopify",
+    "file": "shopify.svg",
+    "color": "7AB55C",
+    "category": "cms"
+  },
+  {
+    "name": "Strapi",
+    "slug": "strapi",
+    "file": "strapi.svg",
+    "color": "4945FF",
+    "category": "cms"
+  },
+  {
+    "name": "WooCommerce",
+    "slug": "woocommerce",
+    "file": "woocommerce.svg",
+    "color": "96588A",
+    "category": "cms"
+  },
+  {
+    "name": "WordPress",
+    "slug": "wordpress",
+    "file": "wordpress.svg",
+    "color": "21759B",
+    "category": "cms"
+  },
+  {
+    "name": "Containerd",
+    "slug": "containerd",
+    "file": "containerd.svg",
+    "color": "575757",
+    "category": "containers"
+  },
+  {
+    "name": "Docker",
+    "slug": "docker",
+    "file": "docker.svg",
+    "color": "2496ED",
+    "category": "containers"
+  },
+  {
+    "name": "Helm",
+    "slug": "helm",
+    "file": "helm.svg",
+    "color": "0F1689",
+    "category": "containers"
+  },
+  {
+    "name": "k3s",
+    "slug": "k3s",
+    "file": "k3s.svg",
+    "color": "FFC61C",
+    "category": "containers"
+  },
+  {
+    "name": "Kubernetes",
+    "slug": "kubernetes",
+    "file": "kubernetes.svg",
+    "color": "326CE5",
+    "category": "containers"
+  },
+  {
+    "name": "LXC",
+    "slug": "linuxcontainers",
+    "file": "linuxcontainers.svg",
+    "color": "888888",
+    "category": "containers"
+  },
+  {
+    "name": "OpenShift",
+    "slug": "redhatopenshift",
+    "file": "redhatopenshift.svg",
+    "color": "888888",
+    "category": "containers"
+  },
+  {
+    "name": "Podman",
+    "slug": "podman",
+    "file": "podman.svg",
+    "color": "892CA0",
+    "category": "containers"
+  },
+  {
+    "name": "Portainer",
+    "slug": "portainer",
+    "file": "portainer.svg",
+    "color": "13BEF9",
+    "category": "containers"
+  },
+  {
+    "name": "Rancher",
+    "slug": "rancher",
+    "file": "rancher.svg",
+    "color": "0075A8",
+    "category": "containers"
+  },
+  {
+    "name": "Airbyte",
+    "slug": "airbyte",
+    "file": "airbyte.svg",
+    "color": "615EFF",
+    "category": "database"
+  },
+  {
+    "name": "Apache Avro",
+    "slug": "apacheavro",
+    "file": "apacheavro.svg",
+    "color": "30638E",
+    "category": "database"
+  },
+  {
+    "name": "Apache Doris",
+    "slug": "apachedoris",
+    "file": "apachedoris.svg",
+    "color": "444FD9",
+    "category": "database"
+  },
+  {
+    "name": "Apache Druid",
+    "slug": "apachedruid",
+    "file": "apachedruid.svg",
+    "color": "29F1FB",
+    "category": "database"
+  },
+  {
+    "name": "Apache Hadoop",
+    "slug": "apachehadoop",
+    "file": "apachehadoop.svg",
+    "color": "66CCFF",
+    "category": "database"
+  },
+  {
+    "name": "Apache HBase",
+    "slug": "apachehbase",
+    "file": "apachehbase.svg",
+    "color": "BE160C",
+    "category": "database"
+  },
+  {
+    "name": "Apache Hive",
+    "slug": "apachehive",
+    "file": "apachehive.svg",
+    "color": "FDEE21",
+    "category": "database"
+  },
+  {
+    "name": "Apache Kylin",
+    "slug": "apachekylin",
+    "file": "apachekylin.svg",
+    "color": "F09D13",
+    "category": "database"
+  },
+  {
+    "name": "Apache Lucene",
+    "slug": "apachelucene",
+    "file": "apachelucene.svg",
+    "color": "019B8F",
+    "category": "database"
+  },
+  {
+    "name": "Apache Parquet",
+    "slug": "apacheparquet",
+    "file": "apacheparquet.svg",
+    "color": "50ABF1",
+    "category": "database"
+  },
+  {
+    "name": "Apache Solr",
+    "slug": "apachesolr",
+    "file": "apachesolr.svg",
+    "color": "D9411E",
+    "category": "database"
+  },
+  {
+    "name": "Apache Storm",
+    "slug": "apachestorm",
+    "file": "apachestorm.svg",
+    "color": "225593",
+    "category": "database"
+  },
+  {
+    "name": "ArangoDB",
+    "slug": "arangodb",
+    "file": "arangodb.svg",
+    "color": "DDDF72",
+    "category": "database"
+  },
+  {
+    "name": "Archive of Our Own",
+    "slug": "archiveofourown",
+    "file": "archiveofourown.svg",
+    "color": "990000",
+    "category": "database"
+  },
+  {
+    "name": "Cassandra",
+    "slug": "apachecassandra",
+    "file": "apachecassandra.svg",
+    "color": "888888",
+    "category": "database"
+  },
+  {
+    "name": "ClickHouse",
+    "slug": "clickhouse",
+    "file": "clickhouse.svg",
+    "color": "FFCC01",
+    "category": "database"
+  },
+  {
+    "name": "Cockroach Labs",
+    "slug": "cockroachlabs",
+    "file": "cockroachlabs.svg",
+    "color": "6933FF",
+    "category": "database"
+  },
+  {
+    "name": "Couchbase",
+    "slug": "couchbase",
+    "file": "couchbase.svg",
+    "color": "EA2328",
+    "category": "database"
+  },
+  {
+    "name": "CouchDB",
+    "slug": "apachecouchdb",
+    "file": "apachecouchdb.svg",
+    "color": "888888",
+    "category": "database"
+  },
+  {
+    "name": "Crunchbase",
+    "slug": "crunchbase",
+    "file": "crunchbase.svg",
+    "color": "0288D1",
+    "category": "database"
+  },
+  {
+    "name": "Databricks",
+    "slug": "databricks",
+    "file": "databricks.svg",
+    "color": "FF3621",
+    "category": "database"
+  },
+  {
+    "name": "DuckDB",
+    "slug": "duckdb",
+    "file": "duckdb.svg",
+    "color": "FFF000",
+    "category": "database"
+  },
+  {
+    "name": "Fauna",
+    "slug": "fauna",
+    "file": "fauna.svg",
+    "color": "3A1AB6",
+    "category": "database"
+  },
+  {
+    "name": "Favro",
+    "slug": "favro",
+    "file": "favro.svg",
+    "color": "512DA8",
+    "category": "database"
+  },
+  {
+    "name": "Hive",
+    "slug": "hive_blockchain",
+    "file": "hive_blockchain.svg",
+    "color": "E31337",
+    "category": "database"
+  },
+  {
+    "name": "HiveMQ",
+    "slug": "hivemq",
+    "file": "hivemq.svg",
+    "color": "FFC000",
+    "category": "database"
+  },
+  {
+    "name": "Internet Archive",
+    "slug": "internetarchive",
+    "file": "internetarchive.svg",
+    "color": "666666",
+    "category": "database"
+  },
+  {
+    "name": "MariaDB",
+    "slug": "mariadb",
+    "file": "mariadb.svg",
+    "color": "003545",
+    "category": "database"
+  },
+  {
+    "name": "Meilisearch",
+    "slug": "meilisearch",
+    "file": "meilisearch.svg",
+    "color": "FF5CAA",
+    "category": "database"
+  },
+  {
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "file": "mongodb.svg",
+    "color": "47A248",
+    "category": "database"
+  },
+  {
+    "name": "MySQL",
+    "slug": "mysql",
+    "file": "mysql.svg",
+    "color": "4479A1",
+    "category": "database"
+  },
+  {
+    "name": "Neo4j",
+    "slug": "neo4j",
+    "file": "neo4j.svg",
+    "color": "4581C3",
+    "category": "database"
+  },
+  {
+    "name": "OpenSearch",
+    "slug": "opensearch",
+    "file": "opensearch.svg",
+    "color": "005EB8",
+    "category": "database"
+  },
+  {
+    "name": "PlanetScale",
+    "slug": "planetscale",
+    "file": "planetscale.svg",
+    "color": "000000",
+    "category": "database"
+  },
+  {
+    "name": "PostgreSQL",
+    "slug": "postgresql",
+    "file": "postgresql.svg",
+    "color": "4169E1",
+    "category": "database"
+  },
+  {
+    "name": "Redis",
+    "slug": "redis",
+    "file": "redis.svg",
+    "color": "FF4438",
+    "category": "database"
+  },
+  {
+    "name": "ScyllaDB",
+    "slug": "scylladb",
+    "file": "scylladb.svg",
+    "color": "6CD5E7",
+    "category": "database"
+  },
+  {
+    "name": "SingleStore",
+    "slug": "singlestore",
+    "file": "singlestore.svg",
+    "color": "AA00FF",
+    "category": "database"
+  },
+  {
+    "name": "Snowflake",
+    "slug": "snowflake",
+    "file": "snowflake.svg",
+    "color": "29B5E8",
+    "category": "database"
+  },
+  {
+    "name": "Spark AR",
+    "slug": "sparkar",
+    "file": "sparkar.svg",
+    "color": "FF5C83",
+    "category": "database"
+  },
+  {
+    "name": "Sparkasse",
+    "slug": "sparkasse",
+    "file": "sparkasse.svg",
+    "color": "FF0000",
+    "category": "database"
+  },
+  {
+    "name": "SparkFun",
+    "slug": "sparkfun",
+    "file": "sparkfun.svg",
+    "color": "E53525",
+    "category": "database"
+  },
+  {
+    "name": "SparkPost",
+    "slug": "sparkpost",
+    "file": "sparkpost.svg",
+    "color": "FA6423",
+    "category": "database"
+  },
+  {
+    "name": "SQLite",
+    "slug": "sqlite",
+    "file": "sqlite.svg",
+    "color": "003B57",
+    "category": "database"
+  },
+  {
+    "name": "TiDB",
+    "slug": "tidb",
+    "file": "tidb.svg",
+    "color": "DC150B",
+    "category": "database"
+  },
+  {
+    "name": "Trino",
+    "slug": "trino",
+    "file": "trino.svg",
+    "color": "DD00A1",
+    "category": "database"
+  },
+  {
+    "name": "Turso",
+    "slug": "turso",
+    "file": "turso.svg",
+    "color": "4FF8D2",
+    "category": "database"
+  },
+  {
+    "name": "Ansible",
+    "slug": "ansible",
+    "file": "ansible.svg",
+    "color": "EE0000",
+    "category": "devops"
+  },
+  {
+    "name": "Apache Airflow",
+    "slug": "apacheairflow",
+    "file": "apacheairflow.svg",
+    "color": "017CEE",
+    "category": "devops"
+  },
+  {
+    "name": "Apache DolphinScheduler",
+    "slug": "apachedolphinscheduler",
+    "file": "apachedolphinscheduler.svg",
+    "color": "85CDF0",
+    "category": "devops"
+  },
+  {
+    "name": "Apache NiFi",
+    "slug": "apachenifi",
+    "file": "apachenifi.svg",
+    "color": "728E9B",
+    "category": "devops"
+  },
+  {
+    "name": "AppVeyor",
+    "slug": "appveyor",
+    "file": "appveyor.svg",
+    "color": "00B3E0",
+    "category": "devops"
+  },
+  {
+    "name": "ArgoCD",
+    "slug": "argo",
+    "file": "argo.svg",
+    "color": "EF7B4D",
+    "category": "devops"
+  },
+  {
+    "name": "Bamboo",
+    "slug": "bamboo",
+    "file": "bamboo.svg",
+    "color": "0052CC",
+    "category": "devops"
+  },
+  {
+    "name": "Bitbucket",
+    "slug": "bitbucket",
+    "file": "bitbucket.svg",
+    "color": "0052CC",
+    "category": "devops"
+  },
+  {
+    "name": "Bitrise",
+    "slug": "bitrise",
+    "file": "bitrise.svg",
+    "color": "683D87",
+    "category": "devops"
+  },
+  {
+    "name": "Buddy",
+    "slug": "buddy",
+    "file": "buddy.svg",
+    "color": "1A86FD",
+    "category": "devops"
+  },
+  {
+    "name": "Buildkite",
+    "slug": "buildkite",
+    "file": "buildkite.svg",
+    "color": "14CC80",
+    "category": "devops"
+  },
+  {
+    "name": "Chef",
+    "slug": "chef",
+    "file": "chef.svg",
+    "color": "F09820",
+    "category": "devops"
+  },
+  {
+    "name": "CircleCI",
+    "slug": "circleci",
+    "file": "circleci.svg",
+    "color": "343434",
+    "category": "devops"
+  },
+  {
+    "name": "CloudBees",
+    "slug": "cloudbees",
+    "file": "cloudbees.svg",
+    "color": "1997B5",
+    "category": "devops"
+  },
+  {
+    "name": "Codefresh",
+    "slug": "codefresh",
+    "file": "codefresh.svg",
+    "color": "08B1AB",
+    "category": "devops"
+  },
+  {
+    "name": "Concourse",
+    "slug": "concourse",
+    "file": "concourse.svg",
+    "color": "3398DC",
+    "category": "devops"
+  },
+  {
+    "name": "Dependabot",
+    "slug": "dependabot",
+    "file": "dependabot.svg",
+    "color": "025E8C",
+    "category": "devops"
+  },
+  {
+    "name": "Drone CI",
+    "slug": "drone",
+    "file": "drone.svg",
+    "color": "212121",
+    "category": "devops"
+  },
+  {
+    "name": "Flux",
+    "slug": "flux",
+    "file": "flux.svg",
+    "color": "5468FF",
+    "category": "devops"
+  },
+  {
+    "name": "Forgejo",
+    "slug": "forgejo",
+    "file": "forgejo.svg",
+    "color": "FB923C",
+    "category": "devops"
+  },
+  {
+    "name": "Gitea",
+    "slug": "gitea",
+    "file": "gitea.svg",
+    "color": "609926",
+    "category": "devops"
+  },
+  {
+    "name": "GitHub",
+    "slug": "github",
+    "file": "github.svg",
+    "color": "181717",
+    "category": "devops"
+  },
+  {
+    "name": "GitHub Actions",
+    "slug": "githubactions",
+    "file": "githubactions.svg",
+    "color": "2088FF",
+    "category": "devops"
+  },
+  {
+    "name": "GitLab",
+    "slug": "gitlab",
+    "file": "gitlab.svg",
+    "color": "FC6D26",
+    "category": "devops"
+  },
+  {
+    "name": "Jenkins",
+    "slug": "jenkins",
+    "file": "jenkins.svg",
+    "color": "D24939",
+    "category": "devops"
+  },
+  {
+    "name": "Octopus Deploy",
+    "slug": "octopusdeploy",
+    "file": "octopusdeploy.svg",
+    "color": "2F93E0",
+    "category": "devops"
+  },
+  {
+    "name": "Packer",
+    "slug": "packer",
+    "file": "packer.svg",
+    "color": "02A8EF",
+    "category": "devops"
+  },
+  {
+    "name": "Pulumi",
+    "slug": "pulumi",
+    "file": "pulumi.svg",
+    "color": "8A3391",
+    "category": "devops"
+  },
+  {
+    "name": "Puppet",
+    "slug": "puppet",
+    "file": "puppet.svg",
+    "color": "FFAE1A",
+    "category": "devops"
+  },
+  {
+    "name": "Renovate",
+    "slug": "renovate",
+    "file": "renovate.svg",
+    "color": "308BE3",
+    "category": "devops"
+  },
+  {
+    "name": "SaltStack",
+    "slug": "saltproject",
+    "file": "saltproject.svg",
+    "color": "888888",
+    "category": "devops"
+  },
+  {
+    "name": "Semaphore CI",
+    "slug": "semaphoreci",
+    "file": "semaphoreci.svg",
+    "color": "19A974",
+    "category": "devops"
+  },
+  {
+    "name": "Snyk",
+    "slug": "snyk",
+    "file": "snyk.svg",
+    "color": "4C4A73",
+    "category": "devops"
+  },
+  {
+    "name": "Spinnaker",
+    "slug": "spinnaker",
+    "file": "spinnaker.svg",
+    "color": "139BB4",
+    "category": "devops"
+  },
+  {
+    "name": "TeamCity",
+    "slug": "teamcity",
+    "file": "teamcity.svg",
+    "color": "000000",
+    "category": "devops"
+  },
+  {
+    "name": "Tekton",
+    "slug": "tekton",
+    "file": "tekton.svg",
+    "color": "FD495C",
+    "category": "devops"
+  },
+  {
+    "name": "Terraform",
+    "slug": "terraform",
+    "file": "terraform.svg",
+    "color": "844FBA",
+    "category": "devops"
+  },
+  {
+    "name": "Travis CI",
+    "slug": "travisci",
+    "file": "travisci.svg",
+    "color": "3EAAAF",
+    "category": "devops"
+  },
+  {
+    "name": "Vagrant",
+    "slug": "vagrant",
+    "file": "vagrant.svg",
+    "color": "1868F2",
+    "category": "devops"
+  },
+  {
+    "name": "Alpine.js",
+    "slug": "alpinedotjs",
+    "file": "alpinedotjs.svg",
+    "color": "8BC0D0",
+    "category": "framework"
+  },
+  {
+    "name": "Angular",
+    "slug": "angular",
+    "file": "angular.svg",
+    "color": "0F0F11",
+    "category": "framework"
+  },
+  {
+    "name": "Apache Cordova",
+    "slug": "apachecordova",
+    "file": "apachecordova.svg",
+    "color": "E8E8E8",
+    "category": "framework"
+  },
+  {
+    "name": "Django",
+    "slug": "django",
+    "file": "django.svg",
+    "color": "092E20",
+    "category": "framework"
+  },
+  {
+    "name": "Electron",
+    "slug": "electron",
+    "file": "electron.svg",
+    "color": "47848F",
+    "category": "framework"
+  },
+  {
+    "name": "Express",
+    "slug": "express",
+    "file": "express.svg",
+    "color": "000000",
+    "category": "framework"
+  },
+  {
+    "name": "FastAPI",
+    "slug": "fastapi",
+    "file": "fastapi.svg",
+    "color": "009688",
+    "category": "framework"
+  },
+  {
+    "name": "Fastify",
+    "slug": "fastify",
+    "file": "fastify.svg",
+    "color": "000000",
+    "category": "framework"
+  },
+  {
+    "name": "Flask",
+    "slug": "flask",
+    "file": "flask.svg",
+    "color": "3BABC3",
+    "category": "framework"
+  },
+  {
+    "name": "Flutter",
+    "slug": "flutter",
+    "file": "flutter.svg",
+    "color": "02569B",
+    "category": "framework"
+  },
+  {
+    "name": "Hono",
+    "slug": "hono",
+    "file": "hono.svg",
+    "color": "E36002",
+    "category": "framework"
+  },
+  {
+    "name": "Ktor",
+    "slug": "ktor",
+    "file": "ktor.svg",
+    "color": "087CFA",
+    "category": "framework"
+  },
+  {
+    "name": "Laravel",
+    "slug": "laravel",
+    "file": "laravel.svg",
+    "color": "FF2D20",
+    "category": "framework"
+  },
+  {
+    "name": "NestJS",
+    "slug": "nestjs",
+    "file": "nestjs.svg",
+    "color": "E0234E",
+    "category": "framework"
+  },
+  {
+    "name": "Next.js",
+    "slug": "nextdotjs",
+    "file": "nextdotjs.svg",
+    "color": "000000",
+    "category": "framework"
+  },
+  {
+    "name": "Nuxt.js",
+    "slug": "nuxt",
+    "file": "nuxt.svg",
+    "color": "00DC82",
+    "category": "framework"
+  },
+  {
+    "name": "Phoenix",
+    "slug": "phoenixframework",
+    "file": "phoenixframework.svg",
+    "color": "888888",
+    "category": "framework"
+  },
+  {
+    "name": "Quarkus",
+    "slug": "quarkus",
+    "file": "quarkus.svg",
+    "color": "4695EB",
+    "category": "framework"
+  },
+  {
+    "name": "Qwik",
+    "slug": "qwik",
+    "file": "qwik.svg",
+    "color": "AC7EF4",
+    "category": "framework"
+  },
+  {
+    "name": "Qwiklabs",
+    "slug": "qwiklabs",
+    "file": "qwiklabs.svg",
+    "color": "F5CD0E",
+    "category": "framework"
+  },
+  {
+    "name": "Rails",
+    "slug": "rubyonrails",
+    "file": "rubyonrails.svg",
+    "color": "888888",
+    "category": "framework"
+  },
+  {
+    "name": "React",
+    "slug": "react",
+    "file": "react.svg",
+    "color": "61DAFB",
+    "category": "framework"
+  },
+  {
+    "name": "SolidJS",
+    "slug": "solid",
+    "file": "solid.svg",
+    "color": "2C4F7C",
+    "category": "framework"
+  },
+  {
+    "name": "Spring",
+    "slug": "spring",
+    "file": "spring.svg",
+    "color": "000000",
+    "category": "framework"
+  },
+  {
+    "name": "Spring Boot",
+    "slug": "springboot",
+    "file": "springboot.svg",
+    "color": "6DB33F",
+    "category": "framework"
+  },
+  {
+    "name": "Svelte",
+    "slug": "svelte",
+    "file": "svelte.svg",
+    "color": "FF3E00",
+    "category": "framework"
+  },
+  {
+    "name": "Tauri",
+    "slug": "tauri",
+    "file": "tauri.svg",
+    "color": "24C8D8",
+    "category": "framework"
+  },
+  {
+    "name": "Vue.js",
+    "slug": "vuedotjs",
+    "file": "vuedotjs.svg",
+    "color": "4FC08D",
+    "category": "framework"
+  },
+  {
+    "name": "Acer",
+    "slug": "acer",
+    "file": "acer.svg",
+    "color": "83B81A",
+    "category": "hardware"
+  },
+  {
+    "name": "AMD",
+    "slug": "amd",
+    "file": "amd.svg",
+    "color": "ED1C24",
+    "category": "hardware"
+  },
+  {
+    "name": "Arduino",
+    "slug": "arduino",
+    "file": "arduino.svg",
+    "color": "00878F",
+    "category": "hardware"
+  },
+  {
+    "name": "Arm",
+    "slug": "arm",
+    "file": "arm.svg",
+    "color": "0091BD",
+    "category": "hardware"
+  },
+  {
+    "name": "ARM Keil",
+    "slug": "armkeil",
+    "file": "armkeil.svg",
+    "color": "394049",
+    "category": "hardware"
+  },
+  {
+    "name": "ASUS",
+    "slug": "asus",
+    "file": "asus.svg",
+    "color": "000000",
+    "category": "hardware"
+  },
+  {
+    "name": "Broadcom",
+    "slug": "broadcom",
+    "file": "broadcom.svg",
+    "color": "E31837",
+    "category": "hardware"
+  },
+  {
+    "name": "Corsair",
+    "slug": "corsair",
+    "file": "corsair.svg",
+    "color": "231F20",
+    "category": "hardware"
+  },
+  {
+    "name": "Dell",
+    "slug": "dell",
+    "file": "dell.svg",
+    "color": "007DB8",
+    "category": "hardware"
+  },
+  {
+    "name": "Espressif",
+    "slug": "espressif",
+    "file": "espressif.svg",
+    "color": "E7352C",
+    "category": "hardware"
+  },
+  {
+    "name": "HP",
+    "slug": "hp",
+    "file": "hp.svg",
+    "color": "0096D6",
+    "category": "hardware"
+  },
+  {
+    "name": "Huawei",
+    "slug": "huawei",
+    "file": "huawei.svg",
+    "color": "FF0000",
+    "category": "hardware"
+  },
+  {
+    "name": "Intel",
+    "slug": "intel",
+    "file": "intel.svg",
+    "color": "0071C5",
+    "category": "hardware"
+  },
+  {
+    "name": "Lenovo",
+    "slug": "lenovo",
+    "file": "lenovo.svg",
+    "color": "E2231A",
+    "category": "hardware"
+  },
+  {
+    "name": "NVIDIA",
+    "slug": "nvidia",
+    "file": "nvidia.svg",
+    "color": "76B900",
+    "category": "hardware"
+  },
+  {
+    "name": "Qualcomm",
+    "slug": "qualcomm",
+    "file": "qualcomm.svg",
+    "color": "3253DC",
+    "category": "hardware"
+  },
+  {
+    "name": "Raspberry Pi",
+    "slug": "raspberrypi",
+    "file": "raspberrypi.svg",
+    "color": "A22846",
+    "category": "hardware"
+  },
+  {
+    "name": "Samsung",
+    "slug": "samsung",
+    "file": "samsung.svg",
+    "color": "1428A0",
+    "category": "hardware"
+  },
+  {
+    "name": "Samsung Pay",
+    "slug": "samsungpay",
+    "file": "samsungpay.svg",
+    "color": "1428A0",
+    "category": "hardware"
+  },
+  {
+    "name": "Seagate",
+    "slug": "seagate",
+    "file": "seagate.svg",
+    "color": "6EBE49",
+    "category": "hardware"
+  },
+  {
+    "name": "Steam Deck",
+    "slug": "steamdeck",
+    "file": "steamdeck.svg",
+    "color": "1A9FFF",
+    "category": "hardware"
+  },
+  {
+    "name": "SteamDB",
+    "slug": "steamdb",
+    "file": "steamdb.svg",
+    "color": "000000",
+    "category": "hardware"
+  },
+  {
+    "name": "Caprover",
+    "slug": "caprover",
+    "file": "caprover.svg",
+    "color": "ED5B26",
+    "category": "homelab"
+  },
+  {
+    "name": "Coolify",
+    "slug": "coolify",
+    "file": "coolify.svg",
+    "color": "6B16ED",
+    "category": "homelab"
+  },
+  {
+    "name": "Emby",
+    "slug": "emby",
+    "file": "emby.svg",
+    "color": "52B54B",
+    "category": "homelab"
+  },
+  {
+    "name": "ESPHome",
+    "slug": "esphome",
+    "file": "esphome.svg",
+    "color": "000000",
+    "category": "homelab"
+  },
+  {
+    "name": "Homarr",
+    "slug": "homarr",
+    "file": "homarr.svg",
+    "color": "FA5252",
+    "category": "homelab"
+  },
+  {
+    "name": "Home Assistant",
+    "slug": "homeassistant",
+    "file": "homeassistant.svg",
+    "color": "18BCF2",
+    "category": "homelab"
+  },
+  {
+    "name": "Immich",
+    "slug": "immich",
+    "file": "immich.svg",
+    "color": "4250AF",
+    "category": "homelab"
+  },
+  {
+    "name": "Jellyfin",
+    "slug": "jellyfin",
+    "file": "jellyfin.svg",
+    "color": "00A4DC",
+    "category": "homelab"
+  },
+  {
+    "name": "Kodi",
+    "slug": "kodi",
+    "file": "kodi.svg",
+    "color": "17B2E7",
+    "category": "homelab"
+  },
+  {
+    "name": "OBS Studio",
+    "slug": "obsstudio",
+    "file": "obsstudio.svg",
+    "color": "302E31",
+    "category": "homelab"
+  },
+  {
+    "name": "openHAB",
+    "slug": "openhab",
+    "file": "openhab.svg",
+    "color": "E64A19",
+    "category": "homelab"
+  },
+  {
+    "name": "Paperless-ngx",
+    "slug": "paperlessngx",
+    "file": "paperlessngx.svg",
+    "color": "17541F",
+    "category": "homelab"
+  },
+  {
+    "name": "Plex",
+    "slug": "plex",
+    "file": "plex.svg",
+    "color": "EBAF00",
+    "category": "homelab"
+  },
+  {
+    "name": "Radarr",
+    "slug": "radarr",
+    "file": "radarr.svg",
+    "color": "FFCB3D",
+    "category": "homelab"
+  },
+  {
+    "name": "Sonarr",
+    "slug": "sonarr",
+    "file": "sonarr.svg",
+    "color": "2596BE",
+    "category": "homelab"
+  },
+  {
+    "name": "Umbrel",
+    "slug": "umbrel",
+    "file": "umbrel.svg",
+    "color": "5351FB",
+    "category": "homelab"
+  },
+  {
+    "name": "Unraid",
+    "slug": "unraid",
+    "file": "unraid.svg",
+    "color": "F15A2C",
+    "category": "homelab"
+  },
+  {
+    "name": "Watchtower",
+    "slug": "watchtower",
+    "file": "watchtower.svg",
+    "color": "416271",
+    "category": "homelab"
+  },
+  {
+    "name": "Webmin",
+    "slug": "webmin",
+    "file": "webmin.svg",
+    "color": "7DA0D0",
+    "category": "homelab"
+  },
+  {
+    "name": "Zigbee2MQTT",
+    "slug": "zigbee2mqtt",
+    "file": "zigbee2mqtt.svg",
+    "color": "FFC135",
+    "category": "homelab"
+  },
+  {
+    "name": ".NET",
+    "slug": "dotnet",
+    "file": "dotnet.svg",
+    "color": "512BD4",
+    "category": "language"
+  },
+  {
+    "name": "Animal Planet",
+    "slug": "animalplanet",
+    "file": "animalplanet.svg",
+    "color": "0073FF",
+    "category": "language"
+  },
+  {
+    "name": "Apollo GraphQL",
+    "slug": "apollographql",
+    "file": "apollographql.svg",
+    "color": "311C87",
+    "category": "language"
+  },
+  {
+    "name": "Bash",
+    "slug": "gnubash",
+    "file": "gnubash.svg",
+    "color": "888888",
+    "category": "language"
+  },
+  {
+    "name": "Beats by Dre",
+    "slug": "beatsbydre",
+    "file": "beatsbydre.svg",
+    "color": "E01F3D",
+    "category": "language"
+  },
+  {
+    "name": "BeatStars",
+    "slug": "beatstars",
+    "file": "beatstars.svg",
+    "color": "EB0000",
+    "category": "language"
+  },
+  {
+    "name": "Bun",
+    "slug": "bun",
+    "file": "bun.svg",
+    "color": "000000",
+    "category": "language"
+  },
+  {
+    "name": "C++",
+    "slug": "cplusplus",
+    "file": "cplusplus.svg",
+    "color": "00599C",
+    "category": "language"
+  },
+  {
+    "name": "Castro",
+    "slug": "castro",
+    "file": "castro.svg",
+    "color": "00B265",
+    "category": "language"
+  },
+  {
+    "name": "Clojure",
+    "slug": "clojure",
+    "file": "clojure.svg",
+    "color": "5881D8",
+    "category": "language"
+  },
+  {
+    "name": "Dart",
+    "slug": "dart",
+    "file": "dart.svg",
+    "color": "0175C2",
+    "category": "language"
+  },
+  {
+    "name": "Deno",
+    "slug": "deno",
+    "file": "deno.svg",
+    "color": "000000",
+    "category": "language"
+  },
+  {
+    "name": "Elixir",
+    "slug": "elixir",
+    "file": "elixir.svg",
+    "color": "4B275F",
+    "category": "language"
+  },
+  {
+    "name": "Erlang",
+    "slug": "erlang",
+    "file": "erlang.svg",
+    "color": "A90533",
+    "category": "language"
+  },
+  {
+    "name": "Go",
+    "slug": "go",
+    "file": "go.svg",
+    "color": "00ADD8",
+    "category": "language"
+  },
+  {
+    "name": "Gradle Play Publisher",
+    "slug": "gradleplaypublisher",
+    "file": "gradleplaypublisher.svg",
+    "color": "82B816",
+    "category": "language"
+  },
+  {
+    "name": "Groovy",
+    "slug": "apachegroovy",
+    "file": "apachegroovy.svg",
+    "color": "888888",
+    "category": "language"
+  },
+  {
+    "name": "Haskell",
+    "slug": "haskell",
+    "file": "haskell.svg",
+    "color": "5D4F85",
+    "category": "language"
+  },
+  {
+    "name": "JavaScript",
+    "slug": "javascript",
+    "file": "javascript.svg",
+    "color": "F7DF1E",
+    "category": "language"
+  },
+  {
+    "name": "Julia",
+    "slug": "julia",
+    "file": "julia.svg",
+    "color": "9558B2",
+    "category": "language"
+  },
+  {
+    "name": "Kotlin",
+    "slug": "kotlin",
+    "file": "kotlin.svg",
+    "color": "7F52FF",
+    "category": "language"
+  },
+  {
+    "name": "Lamborghini",
+    "slug": "lamborghini",
+    "file": "lamborghini.svg",
+    "color": "B6A272",
+    "category": "language"
+  },
+  {
+    "name": "Lua",
+    "slug": "lua",
+    "file": "lua.svg",
+    "color": "000080",
+    "category": "language"
+  },
+  {
+    "name": "Mistral AI",
+    "slug": "mistralai",
+    "file": "mistralai.svg",
+    "color": "FA520F",
+    "category": "language"
+  },
+  {
+    "name": "Node.js",
+    "slug": "nodedotjs",
+    "file": "nodedotjs.svg",
+    "color": "5FA04E",
+    "category": "language"
+  },
+  {
+    "name": "Pegasus Airlines",
+    "slug": "pegasusairlines",
+    "file": "pegasusairlines.svg",
+    "color": "FDC43E",
+    "category": "language"
+  },
+  {
+    "name": "Perl",
+    "slug": "perl",
+    "file": "perl.svg",
+    "color": "0073A1",
+    "category": "language"
+  },
+  {
+    "name": "PHP",
+    "slug": "php",
+    "file": "php.svg",
+    "color": "777BB4",
+    "category": "language"
+  },
+  {
+    "name": "PhpStorm",
+    "slug": "phpstorm",
+    "file": "phpstorm.svg",
+    "color": "000000",
+    "category": "language"
+  },
+  {
+    "name": "Python",
+    "slug": "python",
+    "file": "python.svg",
+    "color": "3776AB",
+    "category": "language"
+  },
+  {
+    "name": "R",
+    "slug": "r",
+    "file": "r.svg",
+    "color": "276DC3",
+    "category": "language"
+  },
+  {
+    "name": "Remix",
+    "slug": "remix",
+    "file": "remix.svg",
+    "color": "000000",
+    "category": "language"
+  },
+  {
+    "name": "Resurrection Remix OS",
+    "slug": "resurrectionremixos",
+    "file": "resurrectionremixos.svg",
+    "color": "000000",
+    "category": "language"
+  },
+  {
+    "name": "Ruby",
+    "slug": "ruby",
+    "file": "ruby.svg",
+    "color": "CC342D",
+    "category": "language"
+  },
+  {
+    "name": "Rust",
+    "slug": "rust",
+    "file": "rust.svg",
+    "color": "000000",
+    "category": "language"
+  },
+  {
+    "name": "Scala",
+    "slug": "scala",
+    "file": "scala.svg",
+    "color": "DC322F",
+    "category": "language"
+  },
+  {
+    "name": "Solidity",
+    "slug": "solidity",
+    "file": "solidity.svg",
+    "color": "363636",
+    "category": "language"
+  },
+  {
+    "name": "Supermicro",
+    "slug": "supermicro",
+    "file": "supermicro.svg",
+    "color": "151F6D",
+    "category": "language"
+  },
+  {
+    "name": "Swift",
+    "slug": "swift",
+    "file": "swift.svg",
+    "color": "F05138",
+    "category": "language"
+  },
+  {
+    "name": "The Planetary Society",
+    "slug": "theplanetarysociety",
+    "file": "theplanetarysociety.svg",
+    "color": "000000",
+    "category": "language"
+  },
+  {
+    "name": "TypeScript",
+    "slug": "typescript",
+    "file": "typescript.svg",
+    "color": "3178C6",
+    "category": "language"
+  },
+  {
+    "name": "VitePress",
+    "slug": "vitepress",
+    "file": "vitepress.svg",
+    "color": "5C73E7",
+    "category": "language"
+  },
+  {
+    "name": "WebAssembly",
+    "slug": "webassembly",
+    "file": "webassembly.svg",
+    "color": "654FF0",
+    "category": "language"
+  },
+  {
+    "name": "Zig",
+    "slug": "zig",
+    "file": "zig.svg",
+    "color": "F7A41D",
+    "category": "language"
+  },
+  {
+    "name": "Apache Kafka",
+    "slug": "apachekafka",
+    "file": "apachekafka.svg",
+    "color": "231F20",
+    "category": "messaging"
+  },
+  {
+    "name": "Apache Pulsar",
+    "slug": "apachepulsar",
+    "file": "apachepulsar.svg",
+    "color": "188FFF",
+    "category": "messaging"
+  },
+  {
+    "name": "Apache RocketMQ",
+    "slug": "apacherocketmq",
+    "file": "apacherocketmq.svg",
+    "color": "D77310",
+    "category": "messaging"
+  },
+  {
+    "name": "Celery",
+    "slug": "celery",
+    "file": "celery.svg",
+    "color": "37814A",
+    "category": "messaging"
+  },
+  {
+    "name": "NATS",
+    "slug": "natsdotio",
+    "file": "natsdotio.svg",
+    "color": "888888",
+    "category": "messaging"
+  },
+  {
+    "name": "RabbitMQ",
+    "slug": "rabbitmq",
+    "file": "rabbitmq.svg",
+    "color": "FF6600",
+    "category": "messaging"
+  },
+  {
+    "name": "Beats",
+    "slug": "beats",
+    "file": "beats.svg",
+    "color": "005571",
+    "category": "monitoring"
+  },
+  {
+    "name": "BetterStack",
+    "slug": "betterstack",
+    "file": "betterstack.svg",
+    "color": "888888",
+    "category": "monitoring"
+  },
+  {
+    "name": "CheckMK",
+    "slug": "checkmk",
+    "file": "checkmk.svg",
+    "color": "15D1A0",
+    "category": "monitoring"
+  },
+  {
+    "name": "Datadog",
+    "slug": "datadog",
+    "file": "datadog.svg",
+    "color": "632CA6",
+    "category": "monitoring"
+  },
+  {
+    "name": "Dynatrace",
+    "slug": "dynatrace",
+    "file": "dynatrace.svg",
+    "color": "1496FF",
+    "category": "monitoring"
+  },
+  {
+    "name": "Elastic",
+    "slug": "elastic",
+    "file": "elastic.svg",
+    "color": "005571",
+    "category": "monitoring"
+  },
+  {
+    "name": "Elastic Cloud",
+    "slug": "elasticcloud",
+    "file": "elasticcloud.svg",
+    "color": "005571",
+    "category": "monitoring"
+  },
+  {
+    "name": "Elastic Stack",
+    "slug": "elasticstack",
+    "file": "elasticstack.svg",
+    "color": "005571",
+    "category": "monitoring"
+  },
+  {
+    "name": "Elasticsearch",
+    "slug": "elasticsearch",
+    "file": "elasticsearch.svg",
+    "color": "005571",
+    "category": "monitoring"
+  },
+  {
+    "name": "Grafana",
+    "slug": "grafana",
+    "file": "grafana.svg",
+    "color": "F46800",
+    "category": "monitoring"
+  },
+  {
+    "name": "Graylog",
+    "slug": "graylog",
+    "file": "graylog.svg",
+    "color": "FF3633",
+    "category": "monitoring"
+  },
+  {
+    "name": "Icinga",
+    "slug": "icinga",
+    "file": "icinga.svg",
+    "color": "06062C",
+    "category": "monitoring"
+  },
+  {
+    "name": "InfluxDB",
+    "slug": "influxdb",
+    "file": "influxdb.svg",
+    "color": "22ADF6",
+    "category": "monitoring"
+  },
+  {
+    "name": "Jaeger",
+    "slug": "jaeger",
+    "file": "jaeger.svg",
+    "color": "66CFE3",
+    "category": "monitoring"
+  },
+  {
+    "name": "Kibana",
+    "slug": "kibana",
+    "file": "kibana.svg",
+    "color": "005571",
+    "category": "monitoring"
+  },
+  {
+    "name": "Logstash",
+    "slug": "logstash",
+    "file": "logstash.svg",
+    "color": "005571",
+    "category": "monitoring"
+  },
+  {
+    "name": "Netdata",
+    "slug": "netdata",
+    "file": "netdata.svg",
+    "color": "00AB44",
+    "category": "monitoring"
+  },
+  {
+    "name": "New Relic",
+    "slug": "newrelic",
+    "file": "newrelic.svg",
+    "color": "1CE783",
+    "category": "monitoring"
+  },
+  {
+    "name": "OpenTelemetry",
+    "slug": "opentelemetry",
+    "file": "opentelemetry.svg",
+    "color": "000000",
+    "category": "monitoring"
+  },
+  {
+    "name": "OpsGenie",
+    "slug": "opsgenie",
+    "file": "opsgenie.svg",
+    "color": "172B4D",
+    "category": "monitoring"
+  },
+  {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
+    "file": "pagerduty.svg",
+    "color": "06AC38",
+    "category": "monitoring"
+  },
+  {
+    "name": "Prometheus",
+    "slug": "prometheus",
+    "file": "prometheus.svg",
+    "color": "E6522C",
+    "category": "monitoring"
+  },
+  {
+    "name": "Rollbar",
+    "slug": "rollbar",
+    "file": "rollbar.svg",
+    "color": "3569F3",
+    "category": "monitoring"
+  },
+  {
+    "name": "Sensu",
+    "slug": "sensu",
+    "file": "sensu.svg",
+    "color": "89C967",
+    "category": "monitoring"
+  },
+  {
+    "name": "Sentry",
+    "slug": "sentry",
+    "file": "sentry.svg",
+    "color": "362D59",
+    "category": "monitoring"
+  },
+  {
+    "name": "Splunk",
+    "slug": "splunk",
+    "file": "splunk.svg",
+    "color": "000000",
+    "category": "monitoring"
+  },
+  {
+    "name": "StatusPage",
+    "slug": "statuspage",
+    "file": "statuspage.svg",
+    "color": "172B4D",
+    "category": "monitoring"
+  },
+  {
+    "name": "Thanos",
+    "slug": "thanos",
+    "file": "thanos.svg",
+    "color": "6D41FF",
+    "category": "monitoring"
+  },
+  {
+    "name": "Uptime Kuma",
+    "slug": "uptimekuma",
+    "file": "uptimekuma.svg",
+    "color": "5CDD8B",
+    "category": "monitoring"
+  },
+  {
+    "name": "VictoriaMetrics",
+    "slug": "victoriametrics",
+    "file": "victoriametrics.svg",
+    "color": "621773",
+    "category": "monitoring"
+  },
+  {
+    "name": "AdGuard",
+    "slug": "adguard",
+    "file": "adguard.svg",
+    "color": "68BC71",
+    "category": "networking"
+  },
+  {
+    "name": "Caddy",
+    "slug": "caddy",
+    "file": "caddy.svg",
+    "color": "1F88C0",
+    "category": "networking"
+  },
+  {
+    "name": "Cisco",
+    "slug": "cisco",
+    "file": "cisco.svg",
+    "color": "1BA0D7",
+    "category": "networking"
+  },
+  {
+    "name": "Cloudflare Workers",
+    "slug": "cloudflareworkers",
+    "file": "cloudflareworkers.svg",
+    "color": "F38020",
+    "category": "networking"
+  },
+  {
+    "name": "Envoy",
+    "slug": "envoyproxy",
+    "file": "envoyproxy.svg",
+    "color": "888888",
+    "category": "networking"
+  },
+  {
+    "name": "Fortinet",
+    "slug": "fortinet",
+    "file": "fortinet.svg",
+    "color": "EE3124",
+    "category": "networking"
+  },
+  {
+    "name": "Istio",
+    "slug": "istio",
+    "file": "istio.svg",
+    "color": "466BB0",
+    "category": "networking"
+  },
+  {
+    "name": "Juniper Networks",
+    "slug": "junipernetworks",
+    "file": "junipernetworks.svg",
+    "color": "84B135",
+    "category": "networking"
+  },
+  {
+    "name": "Kong",
+    "slug": "kong",
+    "file": "kong.svg",
+    "color": "003459",
+    "category": "networking"
+  },
+  {
+    "name": "Kuma",
+    "slug": "kuma",
+    "file": "kuma.svg",
+    "color": "290B53",
+    "category": "networking"
+  },
+  {
+    "name": "Linkerd",
+    "slug": "linkerd",
+    "file": "linkerd.svg",
+    "color": "2BEDA7",
+    "category": "networking"
+  },
+  {
+    "name": "MikroTik",
+    "slug": "mikrotik",
+    "file": "mikrotik.svg",
+    "color": "293239",
+    "category": "networking"
+  },
+  {
+    "name": "Netgear",
+    "slug": "netgear",
+    "file": "netgear.svg",
+    "color": "2C262D",
+    "category": "networking"
+  },
+  {
+    "name": "Nginx",
+    "slug": "nginx",
+    "file": "nginx.svg",
+    "color": "009639",
+    "category": "networking"
+  },
+  {
+    "name": "OpenVPN",
+    "slug": "openvpn",
+    "file": "openvpn.svg",
+    "color": "EA7E20",
+    "category": "networking"
+  },
+  {
+    "name": "OPNsense",
+    "slug": "opnsense",
+    "file": "opnsense.svg",
+    "color": "E44A20",
+    "category": "networking"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "slug": "paloaltonetworks",
+    "file": "paloaltonetworks.svg",
+    "color": "F04E23",
+    "category": "networking"
+  },
+  {
+    "name": "pfSense",
+    "slug": "pfsense",
+    "file": "pfsense.svg",
+    "color": "212121",
+    "category": "networking"
+  },
+  {
+    "name": "Pi-hole",
+    "slug": "pihole",
+    "file": "pihole.svg",
+    "color": "96060C",
+    "category": "networking"
+  },
+  {
+    "name": "Sonicwall",
+    "slug": "sonicwall",
+    "file": "sonicwall.svg",
+    "color": "FF791A",
+    "category": "networking"
+  },
+  {
+    "name": "Tailscale",
+    "slug": "tailscale",
+    "file": "tailscale.svg",
+    "color": "242424",
+    "category": "networking"
+  },
+  {
+    "name": "TP-Link",
+    "slug": "tplink",
+    "file": "tplink.svg",
+    "color": "4ACBD6",
+    "category": "networking"
+  },
+  {
+    "name": "Traefik Proxy",
+    "slug": "traefikproxy",
+    "file": "traefikproxy.svg",
+    "color": "24A1C1",
+    "category": "networking"
+  },
+  {
+    "name": "Ubiquiti",
+    "slug": "ubiquiti",
+    "file": "ubiquiti.svg",
+    "color": "0559C9",
+    "category": "networking"
+  },
+  {
+    "name": "WireGuard",
+    "slug": "wireguard",
+    "file": "wireguard.svg",
+    "color": "88171A",
+    "category": "networking"
+  },
+  {
+    "name": "ZeroTier",
+    "slug": "zerotier",
+    "file": "zerotier.svg",
+    "color": "FFB441",
+    "category": "networking"
+  },
+  {
+    "name": "AlmaLinux",
+    "slug": "almalinux",
+    "file": "almalinux.svg",
+    "color": "000000",
+    "category": "os"
+  },
+  {
+    "name": "Alpine Linux",
+    "slug": "alpinelinux",
+    "file": "alpinelinux.svg",
+    "color": "0D597F",
+    "category": "os"
+  },
+  {
+    "name": "Arch Linux",
+    "slug": "archlinux",
+    "file": "archlinux.svg",
+    "color": "1793D1",
+    "category": "os"
+  },
+  {
+    "name": "Artix Linux",
+    "slug": "artixlinux",
+    "file": "artixlinux.svg",
+    "color": "10A0CC",
+    "category": "os"
+  },
+  {
+    "name": "Asahi Linux",
+    "slug": "asahilinux",
+    "file": "asahilinux.svg",
+    "color": "A61200",
+    "category": "os"
+  },
+  {
+    "name": "CentOS",
+    "slug": "centos",
+    "file": "centos.svg",
+    "color": "262577",
+    "category": "os"
+  },
+  {
+    "name": "Debian",
+    "slug": "debian",
+    "file": "debian.svg",
+    "color": "A81D33",
+    "category": "os"
+  },
+  {
+    "name": "Endeavour OS",
+    "slug": "endeavouros",
+    "file": "endeavouros.svg",
+    "color": "7F7FFF",
+    "category": "os"
+  },
+  {
+    "name": "Fedora",
+    "slug": "fedora",
+    "file": "fedora.svg",
+    "color": "51A2DA",
+    "category": "os"
+  },
+  {
+    "name": "FreeBSD",
+    "slug": "freebsd",
+    "file": "freebsd.svg",
+    "color": "AB2B28",
+    "category": "os"
+  },
+  {
+    "name": "Gentoo",
+    "slug": "gentoo",
+    "file": "gentoo.svg",
+    "color": "54487A",
+    "category": "os"
+  },
+  {
+    "name": "Kali Linux",
+    "slug": "kalilinux",
+    "file": "kalilinux.svg",
+    "color": "557C94",
+    "category": "os"
+  },
+  {
+    "name": "Linux",
+    "slug": "linux",
+    "file": "linux.svg",
+    "color": "FCC624",
+    "category": "os"
+  },
+  {
+    "name": "macOS",
+    "slug": "apple",
+    "file": "apple.svg",
+    "color": "000000",
+    "category": "os"
+  },
+  {
+    "name": "Manjaro",
+    "slug": "manjaro",
+    "file": "manjaro.svg",
+    "color": "35BFA4",
+    "category": "os"
+  },
+  {
+    "name": "NixOS",
+    "slug": "nixos",
+    "file": "nixos.svg",
+    "color": "5277C3",
+    "category": "os"
+  },
+  {
+    "name": "OpenStack",
+    "slug": "openstack",
+    "file": "openstack.svg",
+    "color": "ED1944",
+    "category": "os"
+  },
+  {
+    "name": "openSUSE",
+    "slug": "opensuse",
+    "file": "opensuse.svg",
+    "color": "73BA25",
+    "category": "os"
+  },
+  {
+    "name": "Pop!_OS",
+    "slug": "popos",
+    "file": "popos.svg",
+    "color": "48B9C7",
+    "category": "os"
+  },
+  {
+    "name": "Red Hat",
+    "slug": "redhat",
+    "file": "redhat.svg",
+    "color": "EE0000",
+    "category": "os"
+  },
+  {
+    "name": "Rocky Linux",
+    "slug": "rockylinux",
+    "file": "rockylinux.svg",
+    "color": "10B981",
+    "category": "os"
+  },
+  {
+    "name": "Ubuntu",
+    "slug": "ubuntu",
+    "file": "ubuntu.svg",
+    "color": "E95420",
+    "category": "os"
+  },
+  {
+    "name": "Void Linux",
+    "slug": "voidlinux",
+    "file": "voidlinux.svg",
+    "color": "478061",
+    "category": "os"
+  },
+  {
+    "name": "Asana",
+    "slug": "asana",
+    "file": "asana.svg",
+    "color": "F06A6A",
+    "category": "productivity"
+  },
+  {
+    "name": "Basecamp",
+    "slug": "basecamp",
+    "file": "basecamp.svg",
+    "color": "1D2D35",
+    "category": "productivity"
+  },
+  {
+    "name": "BookStack",
+    "slug": "bookstack",
+    "file": "bookstack.svg",
+    "color": "0288D1",
+    "category": "productivity"
+  },
+  {
+    "name": "ClickUp",
+    "slug": "clickup",
+    "file": "clickup.svg",
+    "color": "7B68EE",
+    "category": "productivity"
+  },
+  {
+    "name": "Confluence",
+    "slug": "confluence",
+    "file": "confluence.svg",
+    "color": "172B4D",
+    "category": "productivity"
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
+    "file": "discord.svg",
+    "color": "5865F2",
+    "category": "productivity"
+  },
+  {
+    "name": "Figma",
+    "slug": "figma",
+    "file": "figma.svg",
+    "color": "F24E1E",
+    "category": "productivity"
+  },
+  {
+    "name": "Floatplane",
+    "slug": "floatplane",
+    "file": "floatplane.svg",
+    "color": "00AEEF",
+    "category": "productivity"
+  },
+  {
+    "name": "GitBook",
+    "slug": "gitbook",
+    "file": "gitbook.svg",
+    "color": "BBDDE5",
+    "category": "productivity"
+  },
+  {
+    "name": "Jira",
+    "slug": "jira",
+    "file": "jira.svg",
+    "color": "0052CC",
+    "category": "productivity"
+  },
+  {
+    "name": "Linear",
+    "slug": "linear",
+    "file": "linear.svg",
+    "color": "5E6AD2",
+    "category": "productivity"
+  },
+  {
+    "name": "Mattermost",
+    "slug": "mattermost",
+    "file": "mattermost.svg",
+    "color": "0058CC",
+    "category": "productivity"
+  },
+  {
+    "name": "Miro",
+    "slug": "miro",
+    "file": "miro.svg",
+    "color": "050038",
+    "category": "productivity"
+  },
+  {
+    "name": "Nextcloud",
+    "slug": "nextcloud",
+    "file": "nextcloud.svg",
+    "color": "0082C9",
+    "category": "productivity"
+  },
+  {
+    "name": "Node-RED",
+    "slug": "nodered",
+    "file": "nodered.svg",
+    "color": "8F0000",
+    "category": "productivity"
+  },
+  {
+    "name": "Notion",
+    "slug": "notion",
+    "file": "notion.svg",
+    "color": "000000",
+    "category": "productivity"
+  },
+  {
+    "name": "Obsidian",
+    "slug": "obsidian",
+    "file": "obsidian.svg",
+    "color": "7C3AED",
+    "category": "productivity"
+  },
+  {
+    "name": "OpenOffice",
+    "slug": "apacheopenoffice",
+    "file": "apacheopenoffice.svg",
+    "color": "888888",
+    "category": "productivity"
+  },
+  {
+    "name": "Plane",
+    "slug": "plane",
+    "file": "plane.svg",
+    "color": "121212",
+    "category": "productivity"
+  },
+  {
+    "name": "Planet",
+    "slug": "planet",
+    "file": "planet.svg",
+    "color": "009DB1",
+    "category": "productivity"
+  },
+  {
+    "name": "Redmine",
+    "slug": "redmine",
+    "file": "redmine.svg",
+    "color": "B32024",
+    "category": "productivity"
+  },
+  {
+    "name": "Rocket.Chat",
+    "slug": "rocketdotchat",
+    "file": "rocketdotchat.svg",
+    "color": "F5455C",
+    "category": "productivity"
+  },
+  {
+    "name": "Trello",
+    "slug": "trello",
+    "file": "trello.svg",
+    "color": "0052CC",
+    "category": "productivity"
+  },
+  {
+    "name": "Webex",
+    "slug": "webex",
+    "file": "webex.svg",
+    "color": "000000",
+    "category": "productivity"
+  },
+  {
+    "name": "Wiki.js",
+    "slug": "wikidotjs",
+    "file": "wikidotjs.svg",
+    "color": "1976D2",
+    "category": "productivity"
+  },
+  {
+    "name": "Zendesk",
+    "slug": "zendesk",
+    "file": "zendesk.svg",
+    "color": "03363D",
+    "category": "productivity"
+  },
+  {
+    "name": "Zoom",
+    "slug": "zoom",
+    "file": "zoom.svg",
+    "color": "0B5CFF",
+    "category": "productivity"
+  },
+  {
+    "name": "1Password",
+    "slug": "1password",
+    "file": "1password.svg",
+    "color": "3B66BC",
+    "category": "security"
+  },
+  {
+    "name": "AEGIS",
+    "slug": "aegisauthenticator",
+    "file": "aegisauthenticator.svg",
+    "color": "888888",
+    "category": "security"
+  },
+  {
+    "name": "Auth0",
+    "slug": "auth0",
+    "file": "auth0.svg",
+    "color": "EB5424",
+    "category": "security"
+  },
+  {
+    "name": "Authelia",
+    "slug": "authelia",
+    "file": "authelia.svg",
+    "color": "113155",
+    "category": "security"
+  },
+  {
+    "name": "Authentik",
+    "slug": "authentik",
+    "file": "authentik.svg",
+    "color": "FD4B2D",
+    "category": "security"
+  },
+  {
+    "name": "Better Auth",
+    "slug": "betterauth",
+    "file": "betterauth.svg",
+    "color": "FFFFFF",
+    "category": "security"
+  },
+  {
+    "name": "Bitwarden",
+    "slug": "bitwarden",
+    "file": "bitwarden.svg",
+    "color": "175DDC",
+    "category": "security"
+  },
+  {
+    "name": "Consul",
+    "slug": "consul",
+    "file": "consul.svg",
+    "color": "F24C53",
+    "category": "security"
+  },
+  {
+    "name": "Falco",
+    "slug": "falco",
+    "file": "falco.svg",
+    "color": "00AEC7",
+    "category": "security"
+  },
+  {
+    "name": "Falcon",
+    "slug": "falcon",
+    "file": "falcon.svg",
+    "color": "F0AD4E",
+    "category": "security"
+  },
+  {
+    "name": "HashiCorp",
+    "slug": "hashicorp",
+    "file": "hashicorp.svg",
+    "color": "000000",
+    "category": "security"
+  },
+  {
+    "name": "Keycloak",
+    "slug": "keycloak",
+    "file": "keycloak.svg",
+    "color": "4D4D4D",
+    "category": "security"
+  },
+  {
+    "name": "Let's Encrypt",
+    "slug": "letsencrypt",
+    "file": "letsencrypt.svg",
+    "color": "003A70",
+    "category": "security"
+  },
+  {
+    "name": "Nomad",
+    "slug": "nomad",
+    "file": "nomad.svg",
+    "color": "00CA8E",
+    "category": "security"
+  },
+  {
+    "name": "Okta",
+    "slug": "okta",
+    "file": "okta.svg",
+    "color": "007DC1",
+    "category": "security"
+  },
+  {
+    "name": "OWASP",
+    "slug": "owasp",
+    "file": "owasp.svg",
+    "color": "000000",
+    "category": "security"
+  },
+  {
+    "name": "Passbolt",
+    "slug": "passbolt",
+    "file": "passbolt.svg",
+    "color": "D40101",
+    "category": "security"
+  },
+  {
+    "name": "SPDX",
+    "slug": "spdx",
+    "file": "spdx.svg",
+    "color": "4398CC",
+    "category": "security"
+  },
+  {
+    "name": "Trivy",
+    "slug": "trivy",
+    "file": "trivy.svg",
+    "color": "1904DA",
+    "category": "security"
+  },
+  {
+    "name": "Vault",
+    "slug": "vault",
+    "file": "vault.svg",
+    "color": "FFEC6E",
+    "category": "security"
+  },
+  {
+    "name": "Vaultwarden",
+    "slug": "vaultwarden",
+    "file": "vaultwarden.svg",
+    "color": "000000",
+    "category": "security"
+  },
+  {
+    "name": "Ceph",
+    "slug": "ceph",
+    "file": "ceph.svg",
+    "color": "EF5C55",
+    "category": "storage"
+  },
+  {
+    "name": "Longhorn",
+    "slug": "longhorn",
+    "file": "longhorn.svg",
+    "color": "5F224B",
+    "category": "storage"
+  },
+  {
+    "name": "MinIO",
+    "slug": "minio",
+    "file": "minio.svg",
+    "color": "C72E49",
+    "category": "storage"
+  },
+  {
+    "name": "NetApp",
+    "slug": "netapp",
+    "file": "netapp.svg",
+    "color": "0067C5",
+    "category": "storage"
+  },
+  {
+    "name": "ownCloud",
+    "slug": "owncloud",
+    "file": "owncloud.svg",
+    "color": "041E42",
+    "category": "storage"
+  },
+  {
+    "name": "QNAP",
+    "slug": "qnap",
+    "file": "qnap.svg",
+    "color": "0C2E82",
+    "category": "storage"
+  },
+  {
+    "name": "Rook",
+    "slug": "rook",
+    "file": "rook.svg",
+    "color": "2AC6EA",
+    "category": "storage"
+  },
+  {
+    "name": "Seafile",
+    "slug": "seafile",
+    "file": "seafile.svg",
+    "color": "FF9800",
+    "category": "storage"
+  },
+  {
+    "name": "Synology",
+    "slug": "synology",
+    "file": "synology.svg",
+    "color": "B5B5B6",
+    "category": "storage"
+  },
+  {
+    "name": "TrueNAS",
+    "slug": "truenas",
+    "file": "truenas.svg",
+    "color": "0095D5",
+    "category": "storage"
+  },
+  {
+    "name": "Alacritty",
+    "slug": "alacritty",
+    "file": "alacritty.svg",
+    "color": "F46D01",
+    "category": "tools"
+  },
+  {
+    "name": "Ant Design",
+    "slug": "antdesign",
+    "file": "antdesign.svg",
+    "color": "0170FE",
+    "category": "tools"
+  },
+  {
+    "name": "Anta",
+    "slug": "anta",
+    "file": "anta.svg",
+    "color": "D70010",
+    "category": "tools"
+  },
+  {
+    "name": "Antena 3",
+    "slug": "antena3",
+    "file": "antena3.svg",
+    "color": "FF7328",
+    "category": "tools"
+  },
+  {
+    "name": "AntennaPod",
+    "slug": "antennapod",
+    "file": "antennapod.svg",
+    "color": "364FF3",
+    "category": "tools"
+  },
+  {
+    "name": "Apache",
+    "slug": "apache",
+    "file": "apache.svg",
+    "color": "D22128",
+    "category": "tools"
+  },
+  {
+    "name": "Apache Ant",
+    "slug": "apacheant",
+    "file": "apacheant.svg",
+    "color": "A81C7D",
+    "category": "tools"
+  },
+  {
+    "name": "Apache FreeMarker",
+    "slug": "apachefreemarker",
+    "file": "apachefreemarker.svg",
+    "color": "326CAC",
+    "category": "tools"
+  },
+  {
+    "name": "Apache Guacamole",
+    "slug": "apacheguacamole",
+    "file": "apacheguacamole.svg",
+    "color": "578B34",
+    "category": "tools"
+  },
+  {
+    "name": "Apache JMeter",
+    "slug": "apachejmeter",
+    "file": "apachejmeter.svg",
+    "color": "D22128",
+    "category": "tools"
+  },
+  {
+    "name": "Apache Maven",
+    "slug": "apachemaven",
+    "file": "apachemaven.svg",
+    "color": "C71A36",
+    "category": "tools"
+  },
+  {
+    "name": "Apache PDFBox",
+    "slug": "apachepdfbox",
+    "file": "apachepdfbox.svg",
+    "color": "34A5DA",
+    "category": "tools"
+  },
+  {
+    "name": "Bazel",
+    "slug": "bazel",
+    "file": "bazel.svg",
+    "color": "43A047",
+    "category": "tools"
+  },
+  {
+    "name": "CLion",
+    "slug": "clion",
+    "file": "clion.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "CMake",
+    "slug": "cmake",
+    "file": "cmake.svg",
+    "color": "064F8C",
+    "category": "tools"
+  },
+  {
+    "name": "Coder",
+    "slug": "coder",
+    "file": "coder.svg",
+    "color": "090B0B",
+    "category": "tools"
+  },
+  {
+    "name": "Cursor",
+    "slug": "cursor",
+    "file": "cursor.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "DataGrip",
+    "slug": "datagrip",
+    "file": "datagrip.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "Dolphin",
+    "slug": "dolphin",
+    "file": "dolphin.svg",
+    "color": "00AAFF",
+    "category": "tools"
+  },
+  {
+    "name": "Git",
+    "slug": "git",
+    "file": "git.svg",
+    "color": "F05032",
+    "category": "tools"
+  },
+  {
+    "name": "GitKraken",
+    "slug": "gitkraken",
+    "file": "gitkraken.svg",
+    "color": "179287",
+    "category": "tools"
+  },
+  {
+    "name": "Gitpod",
+    "slug": "gitpod",
+    "file": "gitpod.svg",
+    "color": "FFAE33",
+    "category": "tools"
+  },
+  {
+    "name": "GNU Emacs",
+    "slug": "gnuemacs",
+    "file": "gnuemacs.svg",
+    "color": "7F5AB6",
+    "category": "tools"
+  },
+  {
+    "name": "GoLand",
+    "slug": "goland",
+    "file": "goland.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "Gradle",
+    "slug": "gradle",
+    "file": "gradle.svg",
+    "color": "02303A",
+    "category": "tools"
+  },
+  {
+    "name": "GraphQL",
+    "slug": "graphql",
+    "file": "graphql.svg",
+    "color": "E10098",
+    "category": "tools"
+  },
+  {
+    "name": "Grunt",
+    "slug": "grunt",
+    "file": "grunt.svg",
+    "color": "FAA918",
+    "category": "tools"
+  },
+  {
+    "name": "Helix",
+    "slug": "helix",
+    "file": "helix.svg",
+    "color": "281733",
+    "category": "tools"
+  },
+  {
+    "name": "HTTPie",
+    "slug": "httpie",
+    "file": "httpie.svg",
+    "color": "73DC8C",
+    "category": "tools"
+  },
+  {
+    "name": "Insomnia",
+    "slug": "insomnia",
+    "file": "insomnia.svg",
+    "color": "4000BF",
+    "category": "tools"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "slug": "intellijidea",
+    "file": "intellijidea.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "JetBrains",
+    "slug": "jetbrains",
+    "file": "jetbrains.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "k6",
+    "slug": "k6",
+    "file": "k6.svg",
+    "color": "7D64FF",
+    "category": "tools"
+  },
+  {
+    "name": "Lapce",
+    "slug": "lapce",
+    "file": "lapce.svg",
+    "color": "3B82F6",
+    "category": "tools"
+  },
+  {
+    "name": "Lens",
+    "slug": "lens",
+    "file": "lens.svg",
+    "color": "3D90CE",
+    "category": "tools"
+  },
+  {
+    "name": "Mercurial",
+    "slug": "mercurial",
+    "file": "mercurial.svg",
+    "color": "999999",
+    "category": "tools"
+  },
+  {
+    "name": "Neovim",
+    "slug": "neovim",
+    "file": "neovim.svg",
+    "color": "57A143",
+    "category": "tools"
+  },
+  {
+    "name": "NetBeans",
+    "slug": "apachenetbeanside",
+    "file": "apachenetbeanside.svg",
+    "color": "888888",
+    "category": "tools"
+  },
+  {
+    "name": "npm",
+    "slug": "npm",
+    "file": "npm.svg",
+    "color": "CB3837",
+    "category": "tools"
+  },
+  {
+    "name": "Nx",
+    "slug": "nx",
+    "file": "nx.svg",
+    "color": "143055",
+    "category": "tools"
+  },
+  {
+    "name": "NXP",
+    "slug": "nxp",
+    "file": "nxp.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "ONNX",
+    "slug": "onnx",
+    "file": "onnx.svg",
+    "color": "005CED",
+    "category": "tools"
+  },
+  {
+    "name": "OpenAPI",
+    "slug": "openapiinitiative",
+    "file": "openapiinitiative.svg",
+    "color": "888888",
+    "category": "tools"
+  },
+  {
+    "name": "OpenTofu",
+    "slug": "opentofu",
+    "file": "opentofu.svg",
+    "color": "FFDA18",
+    "category": "tools"
+  },
+  {
+    "name": "pnpm",
+    "slug": "pnpm",
+    "file": "pnpm.svg",
+    "color": "F69220",
+    "category": "tools"
+  },
+  {
+    "name": "Postman",
+    "slug": "postman",
+    "file": "postman.svg",
+    "color": "FF6C37",
+    "category": "tools"
+  },
+  {
+    "name": "PyCharm",
+    "slug": "pycharm",
+    "file": "pycharm.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "Rider",
+    "slug": "rider",
+    "file": "rider.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "Sourcetree",
+    "slug": "sourcetree",
+    "file": "sourcetree.svg",
+    "color": "0052CC",
+    "category": "tools"
+  },
+  {
+    "name": "Sphinx",
+    "slug": "sphinx",
+    "file": "sphinx.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "Subversion",
+    "slug": "subversion",
+    "file": "subversion.svg",
+    "color": "809CC9",
+    "category": "tools"
+  },
+  {
+    "name": "Swagger",
+    "slug": "swagger",
+    "file": "swagger.svg",
+    "color": "85EA2D",
+    "category": "tools"
+  },
+  {
+    "name": "tmux",
+    "slug": "tmux",
+    "file": "tmux.svg",
+    "color": "1BB91F",
+    "category": "tools"
+  },
+  {
+    "name": "Vim",
+    "slug": "vim",
+    "file": "vim.svg",
+    "color": "019733",
+    "category": "tools"
+  },
+  {
+    "name": "Vite",
+    "slug": "vite",
+    "file": "vite.svg",
+    "color": "9135FF",
+    "category": "tools"
+  },
+  {
+    "name": "Webpack",
+    "slug": "webpack",
+    "file": "webpack.svg",
+    "color": "8DD6F9",
+    "category": "tools"
+  },
+  {
+    "name": "WebStorm",
+    "slug": "webstorm",
+    "file": "webstorm.svg",
+    "color": "000000",
+    "category": "tools"
+  },
+  {
+    "name": "Windsurf",
+    "slug": "windsurf",
+    "file": "windsurf.svg",
+    "color": "0B100F",
+    "category": "tools"
+  },
+  {
+    "name": "Wireshark",
+    "slug": "wireshark",
+    "file": "wireshark.svg",
+    "color": "1679A7",
+    "category": "tools"
+  },
+  {
+    "name": "Yarn",
+    "slug": "yarn",
+    "file": "yarn.svg",
+    "color": "2C8EBB",
+    "category": "tools"
+  },
+  {
+    "name": "Citrix",
+    "slug": "citrix",
+    "file": "citrix.svg",
+    "color": "452170",
+    "category": "virtualization"
+  },
+  {
+    "name": "Nutanix",
+    "slug": "nutanix",
+    "file": "nutanix.svg",
+    "color": "024DA1",
+    "category": "virtualization"
+  },
+  {
+    "name": "OpenNebula",
+    "slug": "opennebula",
+    "file": "opennebula.svg",
+    "color": "0097C2",
+    "category": "virtualization"
+  },
+  {
+    "name": "Proxmox",
+    "slug": "proxmox",
+    "file": "proxmox.svg",
+    "color": "E57000",
+    "category": "virtualization"
+  },
+  {
+    "name": "QEMU",
+    "slug": "qemu",
+    "file": "qemu.svg",
+    "color": "FF6600",
+    "category": "virtualization"
+  },
+  {
+    "name": "VirtualBox",
+    "slug": "virtualbox",
+    "file": "virtualbox.svg",
+    "color": "2F61B4",
+    "category": "virtualization"
+  },
+  {
+    "name": "VMware",
+    "slug": "vmware",
+    "file": "vmware.svg",
+    "color": "607078",
+    "category": "virtualization"
+  },
+  {
+    "name": "Apache Tomcat",
+    "slug": "apachetomcat",
+    "file": "apachetomcat.svg",
+    "color": "F8DC75",
+    "category": "webserver"
+  },
+  {
+    "name": "Nginx Proxy Manager",
+    "slug": "nginxproxymanager",
+    "file": "nginxproxymanager.svg",
+    "color": "F15833",
+    "category": "webserver"
+  }
+]

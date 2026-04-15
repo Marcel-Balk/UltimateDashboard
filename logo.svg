@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512" role="img" aria-label="Ultimate Dashboard">
+  <defs>
+    <linearGradient id="ud-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1a32"/>
+      <stop offset="100%" stop-color="#04080f"/>
+    </linearGradient>
+    <linearGradient id="ud-c1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="ud-c2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="ud-c3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="ud-c4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.7"/>
+    </linearGradient>
+    <filter id="ud-glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100" height="100" rx="22" fill="url(#ud-bg)"/>
+  <!-- Border glow -->
+  <rect width="100" height="100" rx="22" fill="none" stroke="#00d4ff" stroke-opacity="0.20" stroke-width="1.5"/>
+
+  <!-- Top-left tile (cyan, primary) -->
+  <rect x="13" y="13" width="33" height="33" rx="8" fill="url(#ud-c1)" filter="url(#ud-glow)"/>
+  <!-- Top-left shine -->
+  <rect x="13" y="13" width="33" height="13" rx="8" fill="white" fill-opacity="0.10"/>
+
+  <!-- Top-right tile (purple) -->
+  <rect x="54" y="13" width="33" height="33" rx="8" fill="url(#ud-c2)"/>
+  <rect x="54" y="13" width="33" height="13" rx="8" fill="white" fill-opacity="0.08"/>
+
+  <!-- Bottom-left tile (dim cyan) -->
+  <rect x="13" y="54" width="33" height="33" rx="8" fill="url(#ud-c3)"/>
+
+  <!-- Bottom-right tile (dim violet) -->
+  <rect x="54" y="54" width="33" height="33" rx="8" fill="url(#ud-c4)"/>
+</svg>

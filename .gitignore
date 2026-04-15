@@ -1,0 +1,20 @@
+# ── Secrets ─────────────────────────────────────────────────
+.env
+
+# ── Runtime data (created by Docker volumes) ────────────────
+data/
+uploads/
+
+# ── Traefik dynamic config (auto-generated) ─────────────────
+dynamic/
+
+# ── OS / IDE ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Docker build cache ───────────────────────────────────────
+.docker/
